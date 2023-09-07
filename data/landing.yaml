@@ -24,7 +24,7 @@ hero:
   #   height: 80px
 
   title: "print.io.vn"
-  subtitle: Tương thích với **nhiều loại máy in** phổ biến tại Việt Nam như **Canon**, **HP**, **Brother**. Hỗ trợ nhiều nhiều hệ điều hành bao gồm **Windows**, **MacOS**, **Linux**, **FreeBSD**, **iOS**, **Android**.
+  subtitle: Tương thích với **nhiều loại máy in** phổ biến tại Việt Nam như **Canon**, **HP**, **Brother**. Hỗ trợ nhiều nhiều hệ điều hành bao gồm **Windows**, **macOS**, **Linux**, **FreeBSD**, **iOS**, **Android**.
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
