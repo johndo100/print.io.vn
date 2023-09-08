@@ -49,45 +49,45 @@ features:
   enable: true
   weight: 20
 
-  title: Why choose Lotus Docs?
-  subtitle: Lotus Docs is a highly configurable Hugo documentation theme. Yet, with the default configuration you can deploy and publish your documentation site in a matter of minutes. Check out some core features below.
+  title: Tại sao sử dụng Print Server?
+  subtitle: Print Server với khả năng tương thích tuyệt vời ngay với cả các thiết bị cũ không hỗ trợ in qua mạng. Kết nối print server tới mạng LAN và bạn sẽ truy cập máy in từ bất cứ thiết bị nào mà không cần cài đặt driver cho từng thiết bị.
 
   items:
-    - title: Fast
+    - title: Tốc độ in nhanh
       icon: speed
-      description: 4 x 100's score on Google Lighthouse by default. Lotus Docs removes unused CSS, prefetches asset links, and lazy loads content images.
+      description: Print Server với tốc độ xử lý cao, đảm bảo rằng công việc in ấn sẽ được xử lý một cách nhanh chóng và hiệu quả.
 
-    - title: SEO Friendly
+    - title: In từ bất cứ nơi nào
       icon: trending_up
-      description: Data is automatically structured to be SEO friendly. Includes Meta tags, Opengraph, and Twitter cards. Choose the settings that best suit you.
+      description: Các tùy chọn kết nối linh hoạt cho phép toàn bộ nhóm làm việc dễ dàng in ấn trên cùng một thiết bị từ mạng LAN, wifi hoặc internet.
 
-    - title: Secure by default
+    - title: Bảo mật mặc định
       icon: lock
-      description: Lotus Docs' default configuration scores A+ on Mozilla Observatory. You can update the default Security Headers to suit your requirements.
+      description: Được phát triển trên nền tảng Linux, hỗ trợ các mã hóa cần thiết trong khi truyền dữ liệu, đảm bảo an toàn khi in các nội dung cần bảo mật.
 
-    - title: Optional Features
+    - title: Tùy chọn mở rộng
       icon: settings
-      description: Many Lotus Docs features are configurable via optional parameters. Require DocSearch for your site? Then enable it via a single setting.
+      description: Được xây dựng từ các phần mềm nguồn mở tự do, bạn hoàn toàn có thể tùy chỉnh theo từng nhu cầu cụ thể. Dễ dàng tích hợp với các hệ thống sẵn có.
 
-    - title: Deploy to Vercel
+    - title: Dễ dàng triển khai
       icon: change_history
-      description: Deploy to Vercel in seconds. Vercel Functions, Vercel Redirects/Rewrites, and Vercel Headers are all configurable for an enriched experience.
+      description: Được đóng gói sẵn bao gồm các tùy chọn phổ biến.
 
-    - title: Dark Mode
+    - title: Hỗ trợ nhiều thiết bị
       icon: dark_mode
-      description: "Prefer not to be blasted by the sun while reading? Switch to a low-light UI with the click of a button. Modify colour variables to match your branding."
+      description: "Hỗ trợ in từ các hệ điều hành phổ biến bao gồm Windows, macOS, Linux, FreeBSD, *UNIX, iOS, Android không còn cần cài đặt phức tạp."
 
-    - title: Search by DocSearch
+    - title: Tương thích máy in cũ
       icon: search
-      description: Search your docs with DocSearch. A powerful, efficient and accessible search solution built on Algolia Crawler & Autocomplete.
+      description: Tương thích với các máy in cũ kết nối qua cổng USB, đặc biệt với các mẫu máy in tại Việt Nam ví dụ như Canon 2900 huyền thoại.
 
-    - title: Multilingual Support
+    - title: Hỗ trợ Tiếng Việt
       icon: translate
-      description: Lotus Docs supports Hugo's Multilingual Mode. Create documentation in multiple languages side by side with i18n support.
+      description: Dễ dàng tìm kiếm hỗ trợ hoặc tài liệu bằng Tiếng Việt.
 
-    - title: Bootstrap v5
+    - title: Hoạt động tin cậy
       icon: palette
-      description: Built on Bootstrap 5, Lotus Docs allows for a familiar, flexible, and intuitive developer experience. Easily customise your site via SCSS variables and files.
+      description: Làm một việc và làm nó thật tốt. Được thiết kế để hoạt động ổn định trong thời gian dài mà không cần theo dõi sau khi cài đặt.
 
 # Image compare
 image_compare:
