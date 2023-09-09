@@ -63,42 +63,42 @@ features:
 
     - title: Bảo mật mặc định
       icon: lock
-      description: Được phát triển trên nền tảng Linux, hỗ trợ các mã hóa cần thiết trong khi truyền dữ liệu, đảm bảo an toàn khi in các nội dung cần bảo mật.
+      description: Được phát triển trên nền tảng Linux, hỗ trợ các mã hóa cần thiết khi truyền dữ liệu, đảm bảo an toàn khi in các nội dung cần bảo mật.
 
     - title: Tùy chọn mở rộng
       icon: settings
-      description: Được xây dựng từ các phần mềm nguồn mở tự do, bạn hoàn toàn có thể tùy chỉnh theo từng nhu cầu cụ thể. Dễ dàng tích hợp với các hệ thống sẵn có.
+      description: Được xây dựng từ các phần mềm nguồn mở tự do, có thể tùy chỉnh theo từng nhu cầu cụ thể. Dễ dàng tích hợp với các hệ thống sẵn có.
 
     - title: Dễ dàng triển khai
       icon: change_history
-      description: Được đóng gói sẵn bao gồm các tùy chọn phổ biến.
+      description: Được đóng gói bao gồm nhiều tính năng và điều khiển, sẵn sàng để triển khai hoàn toàn tự động trong vòng vài phút.
 
     - title: Hỗ trợ nhiều thiết bị
       icon: dark_mode
-      description: "Hỗ trợ in từ các hệ điều hành phổ biến bao gồm Windows, macOS, Linux, FreeBSD, *UNIX, iOS, Android không còn cần cài đặt phức tạp."
+      description: "Hỗ trợ in từ các hệ điều hành bao gồm Windows, macOS, Linux, FreeBSD, iOS, Android mà không cần cài đặt phức tạp."
 
     - title: Tương thích máy in cũ
       icon: search
-      description: Tương thích với các máy in cũ kết nối qua cổng USB, đặc biệt với các mẫu máy in tại Việt Nam ví dụ như Canon 2900 huyền thoại.
+      description: Tương thích với các máy in cũ kết nối qua cổng USB phổ biến tại Việt Nam, đặc biệt hỗ trợ **Canon 2900** huyền thoại.
 
     - title: Hỗ trợ Tiếng Việt
       icon: translate
-      description: Dễ dàng tìm kiếm hỗ trợ hoặc tài liệu bằng Tiếng Việt.
+      description: Kênh hỗ trợ và tài liệu bằng Tiếng Việt hoặc Tiếng Anh, sẵn sàng xử lý sự cố bằng ngôn ngữ mà bạn quen thuộc.
 
     - title: Hoạt động tin cậy
       icon: palette
-      description: Làm một việc và làm nó thật tốt. Được thiết kế để hoạt động ổn định trong thời gian dài mà không cần theo dõi sau khi cài đặt.
+      description: Làm một việc và làm nó thật tốt. Được thiết kế để phục vụ in ấn, có thể hoạt động trong thời gian dài mà không cần theo dõi và bảo trì.
 
 # Image compare
 image_compare:
   enable: true
   weight: 30
 
-  title: Customise The Lotus Docs Appearance
-  subtitle: Much of Lotus Docs' appearance can be customised. Dark mode is optional (enabled by default) and you can choose a Google font that suites you via the config parameters.
+  title: Ngừng việc chia sẻ từ máy tính cá nhân
+  subtitle: Chia sẻ máy in từ máy tính cá nhân lãng phí tài nguyên vì nó không được tối ưu để quản lý in ấn. Bất kỳ gián đoạn nào xảy ra trên máy tính cá nhân sẽ ảnh hưởng tới công việc của thành viên trong nhóm.
 
   items:
-    - title: Dark Mode
+    - title: "Chia sẻ thiết bị"
       config: {
         startingPoint: 50,
         addCircle: true,
@@ -114,7 +114,7 @@ image_compare:
       imageBefore: "lotusdocs_dark_v0.8.webp"
       imageAfter: "lotusdocs_light_v0.8.webp"
 
-    - title: Custom Fonts
+    - title: "Quản lý tập trung"
       config: {
         controlColor: "#3C4257",
         startingPoint: 25,
@@ -131,7 +131,7 @@ image_compare:
       imageBefore: "lotusdocs_google_font_demo_inter_screenshot.webp"
       imageAfter: "lotusdocs_google_font_demo_lifesavers_screenshot.webp"
 
-    - title: Accent Color
+    - title: "Tiết kiệm chi phí"
       config: {
         startingPoint: 25,
         addCircle: true,
