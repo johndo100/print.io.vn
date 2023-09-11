@@ -98,15 +98,15 @@ image_compare:
   subtitle: Chia sẻ máy in từ máy tính cá nhân lãng phí tài nguyên vì nó không được tối ưu để quản lý in ấn. Bất kỳ gián đoạn nào xảy ra trên máy tính cá nhân sẽ ảnh hưởng tới công việc của thành viên trong nhóm.
 
   items:
-    - title: "Chia sẻ thiết bị"
+    - title: "USB"
       config: {
         startingPoint: 50,
         addCircle: true,
         addCircleBlur: false,
         showLabels: true,
         labelOptions: {
-          before: 'Dark',
-          after: 'Light',
+          before: 'Print',
+          after: 'Other',
           onHover: false
         }
       }
@@ -114,7 +114,7 @@ image_compare:
       imageBefore: "lotusdocs_dark_v0.8.webp"
       imageAfter: "lotusdocs_light_v0.8.webp"
 
-    - title: "Quản lý tập trung"
+    - title: "LAN"
       config: {
         controlColor: "#3C4257",
         startingPoint: 25,
@@ -122,8 +122,8 @@ image_compare:
         addCircleBlur: false,
         showLabels: true,
         labelOptions: {
-          before: 'Inter',
-          after: 'Life Saver',
+          before: 'Print',
+          after: 'Other',
           onHover: false
         }
       }
@@ -131,15 +131,15 @@ image_compare:
       imageBefore: "lotusdocs_google_font_demo_inter_screenshot.webp"
       imageAfter: "lotusdocs_google_font_demo_lifesavers_screenshot.webp"
 
-    - title: "Tiết kiệm chi phí"
+    - title: "WIFI"
       config: {
         startingPoint: 25,
         addCircle: true,
         addCircleBlur: true,
         showLabels: true,
         labelOptions: {
-          before: 'Blue',
-          after: 'Cardinal',
+          before: 'Print',
+          after: 'Other',
           onHover: false
         }
       }
